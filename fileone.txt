@@ -1,3 +1,5 @@
  The first file to be committed by me .This line will be committed to the repos
 
  This changes will be for our next commit.
+
+ To persist the changes directly without putting the changes to the staging area
