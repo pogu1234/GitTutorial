@@ -6,6 +6,8 @@
 
  some more changes need to be added
 
+Adding this line to fetch then to merge the chages
+
 <<<<<<< HEAD
 
 =======
