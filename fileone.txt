@@ -6,6 +6,12 @@
 
  some more changes need to be added
 
+Adding this line to fetch then to merge the chages
+
+<<<<<<< HEAD
+
+=======
  My name is Poon
 
  Merging file from repository
+>>>>>>> b66b9196e88b32993e89384764e53f5b8f7b899c
