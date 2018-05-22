@@ -2,3 +2,4 @@ adding some line of text.
 committing the changes from my project
 adding 1
 adding 2
+not added bug fix
