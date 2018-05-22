@@ -9,10 +9,13 @@
 
 poon
 Stashing
-<<<<<<< HEAD
 
-=======
+
+
  My name is Poon
 
  Merging file from repository
->>>>>>> b66b9196e88b32993e89384764e53f5b8f7b899c
+
+
+stashing the file
+stashing the file one
