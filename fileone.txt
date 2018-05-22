@@ -10,7 +10,7 @@
 
 Stashing
 <<<<<<< HEAD
-
+stashing
 =======
  My name is Poon
 
